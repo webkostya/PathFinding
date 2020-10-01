@@ -44,5 +44,5 @@ var grid = new Path.Grid(tilemap);
 // change the tilemap here
 
 // update later
-grid.UpdateGrid(tilemap);
+grid.Update(tilemap);
 ```
